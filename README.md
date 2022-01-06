@@ -1,0 +1,2 @@
+# Exam-app
+Hello, I am presenting you my new project which I made for my university exam, it's a login app, in other words it's more simplified version of the login segment which we encounter when we need to authorize in different websites for example: Gmail, Facebook, Instagram and etc The usage of this app is self explanatory, there's few activities that you can use, for example you can reset your password if you forget it after you register, there's also basic requirements for registering, which include numbers in password, uppercase letters and also symbols.
